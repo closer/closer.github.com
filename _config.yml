@@ -1,1 +1,5 @@
+safe: true
+source: "git://github.com/closer/closer.github.com.git"
+destination: "_site"
+lsi: false
 pygments: true
