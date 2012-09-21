@@ -5,3 +5,7 @@ date: "金  9 21 10:55:10 +0900 2012"
 ---
 
 Markdownなので、書くのが楽だな。
+
+{% youtube pS5Iz8li8q %}
+
+{% soundcloud_sound 12345 %}
